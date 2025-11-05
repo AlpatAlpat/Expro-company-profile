@@ -1,0 +1,23 @@
+*{
+    font-family: poppins, sans-serif;
+}
+.hero{
+    background-image:linear-gradient(rgb(1, 1, 1,0.7)) ,url(../../aset/img/hero.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.navbar i{
+    color: white;
+}
+.navbar:hover{
+    cursor: pointer;
+}
+.project img{
+    /* display: flex; */
+    margin: auto;
+    height: 250px;
+    padding: 10px;
+}
