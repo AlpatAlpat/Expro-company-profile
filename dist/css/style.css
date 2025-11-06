@@ -1,5 +1,6 @@
 *{
     font-family: poppins, sans-serif;
+    list-style-type: none;
 }
 .hero{
     background-image:linear-gradient(rgb(1, 1, 1,0.7)) ,url(../../aset/img/hero.jpg);
@@ -20,4 +21,9 @@
     margin: auto;
     height: 250px;
     padding: 10px;
+}
+.Scrolling-active{
+    background-color: #0d6efd;
+    transition: 0.5s;
+
 }
